@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f331475c-7425-48ac-8fe9-986eda476324" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/store/modules/oneStep.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/modules/threeStep.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/modules/twoStep.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env.development" beforeDir="false" afterPath="$PROJECT_DIR$/.env.development" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/property.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/estate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/GlobalFooter/GlobalFooter.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/GlobalFooter/GlobalFooter.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config/router.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/config/router.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layouts/UserLayout.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/UserLayout.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/router/generator-routers.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/generator-routers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/modules/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/modules/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/request.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/request.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/other/BigForm.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/other/IconSelectorView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/other/PermissionList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/other/RoleList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/other/TableInnerEditList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/other/TreeList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/other/UserList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/other/modules/OrgModal.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/other/modules/RoleModal.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/property/addGuide/Step1.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/property/addGuide/Step1.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/property/addGuide/Step2.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/property/addGuide/Step2.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/property/addGuide/Step3.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/property/addGuide/Step3.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/property/addGuide/Step4.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/property/addGuide/Step4.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/property/batchAddGuide/Step1.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/property/batchAddGuide/Step1.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/property/batchAddGuide/Step2.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/property/batchAddGuide/Step2.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/property/batchAddGuide/Step3.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/property/batchAddGuide/Step3.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/property/batchAddGuide/Step4.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/property/batchAddGuide/Step4.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/property/batchAddGuide/Step5.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/property/batchAddGuide/Step5.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/property/batchAddGuide/StepForm.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/property/batchAddGuide/StepForm.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/user/Login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/user/Login.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="86ca4e3f-ce47-4883-8958-4534459ba387" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectId" id="1ahhFiMPh0v27qmMPfyjtldRsrz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="C:\Program Files\nodejs\node_modules\npm" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="ts.external.directory.path" value="D:\WebStorm 2020.3.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WebStrom\TestProject\project\06楼盘管理3\webproject\src\assets" />
+      <recent name="D:\webproject\src\views\property\batchAddGuide" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f331475c-7425-48ac-8fe9-986eda476324" name="Default Changelist" comment="" />
+      <created>1587193630815</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587193630815</updated>
+      <workItem from="1587193632157" duration="13790000" />
+      <workItem from="1587225918628" duration="57000" />
+      <workItem from="1587232215809" duration="9456000" />
+      <workItem from="1587795410810" duration="15927000" />
+      <workItem from="1649510360959" duration="1032000" />
+      <workItem from="1649513891647" duration="26000" />
+      <workItem from="1651982037784" duration="80000" />
+      <workItem from="1651982634514" duration="5549000" />
+      <workItem from="1652293434544" duration="697000" />
+      <workItem from="1655951313040" duration="1157000" />
+      <workItem from="1655953231239" duration="1158000" />
+      <workItem from="1655959127860" duration="523000" />
+      <workItem from="1655959801164" duration="153000" />
+      <workItem from="1655960307449" duration="12650000" />
+      <workItem from="1656239284292" duration="1191000" />
+      <workItem from="1656298148360" duration="20864000" />
+      <workItem from="1656584800347" duration="1419000" />
+      <workItem from="1656830140644" duration="360000" />
+      <workItem from="1656982749485" duration="5348000" />
+      <workItem from="1657071879441" duration="613000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
